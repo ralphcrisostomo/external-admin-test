@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   const ENV = {
-    modulePrefix: 'external-admin-ralph',
+    modulePrefix: 'external-admin',
     environment: environment
   }
 
